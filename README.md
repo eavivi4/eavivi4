@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Eden! </h1>
 
-<!--
-**eavivi4/eavivi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b> Personal projects </b>
+  - [Practicing Data Structures & Algorithms in C++](https://github.com/eavivi4/Data-Structures)
+  - [Game Hub in C++](https://github.com/eavivi4/Games) --> [Wordle](https://github.com/eavivi4/Wordle) repo added into the Game Hub repo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="EdenAvivi | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="EdenAvivi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[github]: https://github.com/eavivi4
+[linkedin]: https://www.linkedin.com/in/eden-avivi/
