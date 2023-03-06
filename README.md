@@ -5,7 +5,9 @@
 - <b> Personal projects </b>
   - [Practicing Data Structures & Algorithms in C++](https://github.com/eavivi4/Data-Structures)
   - [Game Hub in C++](https://github.com/eavivi4/Games) --> [Wordle](https://github.com/eavivi4/Wordle) repo added into the Game Hub repo
-
+- <b> Personal projects in progress </b>
+  - [Personal Website Intro in HTML](https://eavivi4.github.io/CV/)
+  - [Personal Website in HTML + CSS](https://eavivi4.github.io/PersonalWebsite/)    
 
 <h2> 🤳 Connect with me:</h2>
 
