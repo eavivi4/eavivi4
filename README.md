@@ -5,9 +5,12 @@
 - <b> Personal projects </b>
   - [Practicing Data Structures & Algorithms in C++](https://github.com/eavivi4/Data-Structures)
   - [Game Hub in C++](https://github.com/eavivi4/Games) --> [Wordle](https://github.com/eavivi4/Wordle) repo added into the Game Hub repo
-- <b> Personal projects in progress </b>
+- <b> Small personal projects </b>
   - [Personal Website Intro in HTML](https://eavivi4.github.io/CV/)
-  - [Personal Website in HTML + CSS](https://eavivi4.github.io/PersonalWebsite/)    
+  - [Personal Website in HTML + CSS](https://eavivi4.github.io/PersonalWebsite/)
+- <b> Personal projects in progress </b>
+  - [To Do List](https://github.com/eavivi4/To_do) 
+  - [Calculator](https://github.com/eavivi4/Calculator)
 
 <h2> 🤳 Connect with me:</h2>
 
