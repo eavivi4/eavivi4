@@ -9,7 +9,6 @@
   - [Personal Website Intro in HTML](https://eavivi4.github.io/CV/)
   - [Personal Website in HTML + CSS](https://eavivi4.github.io/PersonalWebsite/)
   - [To Do List](https://github.com/eavivi4/To_do) 
-- <b> Personal projects in progress </b>
   - [Calculator](https://github.com/eavivi4/Calculator)
 
 <h2> 🤳 Connect with me:</h2>
